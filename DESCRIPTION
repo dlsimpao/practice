@@ -14,3 +14,5 @@ LazyData: true
 RoxygenNote: 7.0.2
 Suggests: 
     testthat
+URL: https://github.com/dlsimpao/practice
+BugReports: https://github.com/dlsimpao/practice/issues
